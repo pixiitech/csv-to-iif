@@ -1,0 +1,10 @@
+[17-Jun-2016 18:21:55 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /var/www/iif/iif.php on line 224
+[17-Jun-2016 18:21:56 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/iif/iif.php on line 224
+[17-Jun-2016 18:22:01 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /var/www/iif/alias.php on line 122
+[17-Jun-2016 18:22:01 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/iif/alias.php on line 122
+[17-Jun-2016 18:22:02 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /var/www/iif/codes.php on line 108
+[17-Jun-2016 18:22:02 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/iif/codes.php on line 108
+[17-Jun-2016 18:23:00 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /var/www/iif/alias.php on line 122
+[17-Jun-2016 18:23:00 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/iif/alias.php on line 122
+[17-Jun-2016 18:23:15 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /var/www/iif/iif.php on line 224
+[17-Jun-2016 18:23:15 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/iif/iif.php on line 224
